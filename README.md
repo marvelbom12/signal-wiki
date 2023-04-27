@@ -1,1 +1,1 @@
-Pass callbacks to validator (#7320)
+Add dota8.yaml and O tests (#7394)
