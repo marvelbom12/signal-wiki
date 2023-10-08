@@ -1,1 +1,1 @@
-Add new @Retry() decorator (#7854)
+Expand Model method type hinting (#8279)
