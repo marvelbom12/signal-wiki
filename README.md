@@ -1,1 +1,1 @@
-Avoid creating -hub dir without processing images (#8334)
+Improve Docs Modes tables (#8266)
