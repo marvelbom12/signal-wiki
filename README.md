@@ -1,1 +1,1 @@
-Fix PIL show() and save() (#8202)
+Update H1 in Explorer API docs (#7813)
