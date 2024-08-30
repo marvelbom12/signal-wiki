@@ -1,1 +1,1 @@
-Improve Docs arguments tables (#8415)
+Add estimate_speed(region_color) parameter (#8285)
